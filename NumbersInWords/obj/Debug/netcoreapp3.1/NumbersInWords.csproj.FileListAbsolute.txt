@@ -1,0 +1,12 @@
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/bin/Debug/netcoreapp3.1/NumbersInWords.deps.json
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/bin/Debug/netcoreapp3.1/NumbersInWords.runtimeconfig.json
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/bin/Debug/netcoreapp3.1/NumbersInWords.runtimeconfig.dev.json
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/bin/Debug/netcoreapp3.1/NumbersInWords.dll
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/bin/Debug/netcoreapp3.1/NumbersInWords.pdb
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/obj/Debug/netcoreapp3.1/NumbersInWords.csprojAssemblyReference.cache
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/obj/Debug/netcoreapp3.1/NumbersInWords.AssemblyInfoInputs.cache
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/obj/Debug/netcoreapp3.1/NumbersInWords.AssemblyInfo.cs
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/obj/Debug/netcoreapp3.1/NumbersInWords.csproj.CoreCompileInputs.cache
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/obj/Debug/netcoreapp3.1/NumbersInWords.dll
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/obj/Debug/netcoreapp3.1/NumbersInWords.pdb
+/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/obj/Debug/netcoreapp3.1/NumbersInWords.genruntimeconfig.cache

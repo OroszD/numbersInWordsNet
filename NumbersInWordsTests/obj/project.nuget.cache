@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xu/0X2fZR9ae6xbzSpjEtP7NpVh/loUw5wcA92zDgdnMTmO/Po2isx/1WIbhDIgmExKK1Xy72D1Vf3Vj+emN8A==",
+  "dgSpecHash": "odCWbGFlxCh2ZeJ0zuSqezLkJHIi32NWLKJbXXSXOqDx6MvJZ7OWuEgFRXB/450uu8Oi8WrlAgx6Q504cBbVbQ==",
   "success": true,
-  "projectFilePath": "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWordsTests/NumbersInWordsTests.csproj",
+  "projectFilePath": "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWordsTests/NumbersInWordsTests.csproj",
   "expectedPackageFiles": [
     "/Users/oroszdavid/.nuget/packages/microsoft.codecoverage/16.4.0/microsoft.codecoverage.16.4.0.nupkg.sha512",
     "/Users/oroszdavid/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",

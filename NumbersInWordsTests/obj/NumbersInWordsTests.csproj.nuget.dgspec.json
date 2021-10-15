@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWordsTests/NumbersInWordsTests.csproj": {}
+    "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWordsTests/NumbersInWordsTests.csproj": {}
   },
   "projects": {
-    "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/NumbersInWords.csproj": {
+    "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWords/NumbersInWords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/NumbersInWords.csproj",
+        "projectUniqueName": "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWords/NumbersInWords.csproj",
         "projectName": "NumbersInWords",
-        "projectPath": "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/NumbersInWords.csproj",
+        "projectPath": "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWords/NumbersInWords.csproj",
         "packagesPath": "/Users/oroszdavid/.nuget/packages/",
-        "outputPath": "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/obj/",
+        "outputPath": "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWords/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWordsTests/NumbersInWordsTests.csproj": {
+    "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWordsTests/NumbersInWordsTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWordsTests/NumbersInWordsTests.csproj",
+        "projectUniqueName": "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWordsTests/NumbersInWordsTests.csproj",
         "projectName": "NumbersInWordsTests",
-        "projectPath": "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWordsTests/NumbersInWordsTests.csproj",
+        "projectPath": "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWordsTests/NumbersInWordsTests.csproj",
         "packagesPath": "/Users/oroszdavid/.nuget/packages/",
-        "outputPath": "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWordsTests/obj/",
+        "outputPath": "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWordsTests/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -84,8 +84,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/NumbersInWords.csproj": {
-                "projectPath": "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/NumbersInWords.csproj"
+              "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWords/NumbersInWords.csproj": {
+                "projectPath": "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWords/NumbersInWords.csproj"
               }
             }
           }

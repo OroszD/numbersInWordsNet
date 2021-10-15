@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dVEuRmy2c1rfJY6ABedxTpkKACSVBZmaSmeZXBJoAg9w5KyR/AAxUgKBqbNIjxGcoOb/oBdOCmtz/SDpHg5obQ==",
+  "dgSpecHash": "O4Mh6cxA6rAuHqjtXbBDj0OiYPv5aHsbljbQ+9SCGPNHRXpEaMtHZ28eoWppFPKUMNJkoyPu2PuP9uFwLSI7Ig==",
   "success": true,
-  "projectFilePath": "/Users/oroszdavid/Dojo/numberInWorldNet/NumbersInWords/NumbersInWords.csproj",
+  "projectFilePath": "/Users/oroszdavid/Dojo/numberInWordsGithub/NumbersInWords/NumbersInWords.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
